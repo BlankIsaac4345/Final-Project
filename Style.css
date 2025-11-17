@@ -13,5 +13,8 @@ body {
 }
 
 .Reasons-list {
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 1300px;
 }
