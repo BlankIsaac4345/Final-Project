@@ -13,6 +13,10 @@ body {
     align-items: center;
 }
 
+.main{
+    height: 100vh;
+}
+
 .Reasons-list {
     display: flex;
     flex-direction: row;
@@ -58,3 +62,12 @@ body {
     border: 5px solid white;
     border-radius: 20px;
  }
+
+ .footer {
+    background-color: rgb(81, 103, 123);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: auto;
+    border: 5px solid white;
+}
